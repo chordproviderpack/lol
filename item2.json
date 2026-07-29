@@ -1,0 +1,11 @@
+{
+  "name": "@gone",
+  "description": "The @gone username on Telegram. Aliases: gone.t.me, t.me/gone",
+  "image": "https://nft.fragment.com/username/gone.webp",
+  "attributes": [
+    {
+      "trait_type": "edition",
+      "value": "2"
+    }
+  ]
+}
