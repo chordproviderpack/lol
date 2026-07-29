@@ -1,11 +1,11 @@
 {
   "name": "@evil",
-  "image": "https://u.pone.rs/rvrzlyvw.jpg",
   "description": "@monk",
+  "image": "https://u.pone.rs/rvrzlyvw.jpg",
   "attributes": [
     {
       "trait_type": "edition",
-      "value": 1
+      "value": "1"
     }
   ]
 }
